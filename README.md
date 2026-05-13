@@ -2,4 +2,4 @@
 CustomTkinter ve BeautifulSoup kullanılarak geliştirilmiş; web sayfalarındaki temel HTML bileşenlerini (başlıklar, bağlantılar, resimler) hızlıca ayrıştırıp HTML formatında raporlayabilen, modern arayüzlü bir masaüstü veri kazıma (web scraping) aracı.
 
 
-Dist klasörünün içindeki web scrapper.exe yi çalıştırın
+Dist klasörünün içindeki web scraper.exe yi çalıştırın
